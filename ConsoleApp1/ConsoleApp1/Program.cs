@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("conflict used");
             Console.WriteLine("first conflict");
             Console.WriteLine("branch to branch vs conflict");
+            Console.WriteLine("branch to branch conflict");
         }
     }
 }
